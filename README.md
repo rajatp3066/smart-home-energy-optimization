@@ -7,13 +7,21 @@ This project focuses on analyzing energy consumption data collected from smart h
 # Features
 
 Data Cleaning: Handles missing values and converts data types for analysis.
+
 Exploratory Data Analysis (EDA): Visualizes trends, identifies correlations, and detects anomalies.
+
 Feature Engineering: Extracts time-based features such as hour, day, and weekend/weekday classifications.
+
 Modeling:
+
 1.Time-series forecasting using ARIMA.
+
 2.Random Forest Regression for predictive modeling.
+
 Optimization Recommendations: Identifies peak consumption periods and provides strategies to manage energy use.
+
 Dataset
+
 The dataset contains over 1 million records with the following columns:
 
 Date: Date of measurement.
