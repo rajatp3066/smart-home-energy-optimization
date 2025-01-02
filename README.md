@@ -28,10 +28,15 @@ Sub_metering_1, Sub_metering_2, Sub_metering_3: Energy usage in different sub-me
 ## Results
 
 ARIMA Model: Forecasts energy consumption for the next 7 days.
+
 Random Forest Regression:
+
 Mean Absolute Error (MAE): ~0.0024
+
 Root Mean Squared Error (RMSE): ~0.0043
+
 R² Score: ~0.9984
+
 Recommendations: Includes peak consumption warnings and cost-saving suggestions.
 
 ## Key Visualizations
@@ -45,7 +50,3 @@ Distribution of energy usage.
 Extend to real-time energy optimization.
 Incorporate renewable energy source predictions.
 Implement user-specific energy-saving recommendations.
-
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
