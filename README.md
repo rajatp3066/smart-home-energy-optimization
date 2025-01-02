@@ -20,16 +20,22 @@ Modeling:
 
 Optimization Recommendations: Identifies peak consumption periods and provides strategies to manage energy use.
 
-Dataset
+Dataset:
 
 The dataset contains over 1 million records with the following columns:
 
 Date: Date of measurement.
+
 Time: Time of measurement.
+
 Global_active_power: Power used by the household (in kW).
+
 Global_reactive_power: Reactive power used.
+
 Voltage: Voltage measurements.
+
 Global_intensity: Current intensity (in A).
+
 Sub_metering_1, Sub_metering_2, Sub_metering_3: Energy usage in different sub-metering areas.
 
 
