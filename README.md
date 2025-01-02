@@ -18,9 +18,9 @@ Optimization Strategies: Providing suggestions for energy consumption reduction.
 
 # Project Structure
 
-bash
-Copy code
-├── data/
+bash \n
+Copy code \n
+├── data/ \n
 │   └── energy_data.csv  # Dataset for energy consumption data
 ├── notebooks/
 │   └── analysis_notebook.ipynb  # Jupyter notebook with EDA, model training, and optimization
