@@ -5,46 +5,52 @@
 # Project Overview
 ### The objective of this project is to use historical energy consumption data to:
 
-Understand patterns of energy usage in smart homes.
-Predict future energy consumption.
-Propose actionable optimization strategies to reduce energy costs and minimize the carbon footprint.
-Key Features
-Data Cleaning: Preprocessing data by handling missing values and scaling features.
-Feature Engineering: Generating additional time-based features for modeling.
-Predictive Modeling: Using machine learning (Random Forest Regression) and Time Series analysis (ARIMA) to forecast energy usage.
-Optimization Strategies: Providing suggestions for energy consumption reduction.
-Project Structure
-bash
-Copy code
-├── data/
-│   └── energy_data.csv  # Dataset for energy consumption data
-├── notebooks/
-│   └── analysis_notebook.ipynb  # Jupyter notebook with EDA, model training, and optimization
-├── src/
-│   ├── data_preprocessing.py  # Code for data cleaning and preprocessing
-│   ├── feature_engineering.py  # Code for feature engineering
-│   ├── random_forest_model.py  # Random Forest model training and evaluation
-│   ├── time_series_model.py  # Time Series model (ARIMA) for prediction
-│   └── optimization.py  # Code for energy optimization strategies
-├── requirements.txt  # List of Python dependencies required for the project
-├── README.md  # Project documentation
-└── LICENSE  # License for the repository
-Getting Started
-1. Clone the Repository
-Start by cloning this repository to your local machine:
+### Understand patterns of energy usage in smart homes.
+### Predict future energy consumption.
+### Propose actionable optimization strategies to reduce energy costs and minimize the carbon footprint.
 
-bash
-Copy code
-git clone https://github.com/yourusername/energy-consumption-optimization.git
-cd energy-consumption-optimization
-2. Install Dependencies
-To set up the project environment, ensure you have Python 3.x installed. Install the required packages by running:
+# Key Features
+## Data Cleaning: Preprocessing data by handling missing values and scaling features.
+## Feature Engineering: Generating additional time-based features for modeling.
+## Predictive Modeling: Using machine learning (Random Forest Regression) and Time Series analysis (ARIMA) to forecast energy usage.
+## Optimization Strategies: Providing suggestions for energy consumption reduction.
 
-bash
-Copy code
-pip install -r requirements.txt
-3. Dataset
-The dataset used in this project contains energy consumption data, including features like:
+# Project Structure
+### bash
+### Copy code
+### ├── data/
+### │   └── energy_data.csv  # Dataset for energy consumption data
+### ├── notebooks/
+### │   └── analysis_notebook.ipynb  # Jupyter notebook with EDA, model training, and optimization
+### ├── src/
+### │   ├── data_preprocessing.py  # Code for data cleaning and preprocessing
+### │   ├── feature_engineering.py  # Code for feature engineering
+### │   ├── random_forest_model.py  # Random Forest model training and evaluation
+### │   ├── time_series_model.py  # Time Series model (ARIMA) for prediction
+### │   └── optimization.py  # Code for energy optimization strategies
+### ├── requirements.txt  # List of Python dependencies required for the project
+### ├── README.md  # Project documentation
+### └── LICENSE  # License for the repository
+
+
+# Getting Started
+## 1. Clone the Repository
+### Start by cloning this repository to your local machine:
+
+### bash
+### Copy code
+### git clone https://github.com/yourusername/energy-consumption-optimization.git
+### cd energy-consumption-optimization
+
+## 2. Install Dependencies
+### To set up the project environment, ensure you have Python 3.x installed. Install the required packages by running:
+
+### bash
+### Copy code
+### pip install -r requirements.txt
+
+## 3. Dataset
+## The dataset used in this project contains energy consumption data, including features like:
 
 Global_active_power
 Global_reactive_power
