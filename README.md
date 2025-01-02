@@ -1,10 +1,10 @@
-#Energy Consumption Analysis and Optimization
+# Energy Consumption Analysis and Optimization
 
-##Project Overview
+## Project Overview
 
 This project focuses on analyzing energy consumption data collected from smart home devices. By identifying usage patterns and predicting future energy needs, the project aims to propose actionable strategies to optimize energy usage, reduce costs, and minimize environmental impact.
 
-#Features
+# Features
 
 Data Cleaning: Handles missing values and converts data types for analysis.
 Exploratory Data Analysis (EDA): Visualizes trends, identifies correlations, and detects anomalies.
@@ -25,7 +25,7 @@ Global_intensity: Current intensity (in A).
 Sub_metering_1, Sub_metering_2, Sub_metering_3: Energy usage in different sub-metering areas.
 
 
-##Results
+## Results
 
 ARIMA Model: Forecasts energy consumption for the next 7 days.
 Random Forest Regression:
@@ -34,14 +34,14 @@ Root Mean Squared Error (RMSE): ~0.0043
 R² Score: ~0.9984
 Recommendations: Includes peak consumption warnings and cost-saving suggestions.
 
-##Key Visualizations
+## Key Visualizations
 
 Energy consumption trends over time.
 Daily, weekly, and hourly usage patterns.
 Heatmaps showing feature correlations.
 Distribution of energy usage.
 
-##Future Work
+## Future Work
 Extend to real-time energy optimization.
 Incorporate renewable energy source predictions.
 Implement user-specific energy-saving recommendations.
