@@ -22,7 +22,7 @@ Optimization Recommendations: Identifies peak consumption periods and provides s
 
 Dataset:
 
-The dataset contains over 1 million records with the following columns:
+The dataset contains over with the following columns:
 
 Date: Date of measurement.
 
