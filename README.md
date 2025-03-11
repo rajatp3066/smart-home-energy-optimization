@@ -29,7 +29,7 @@ The dataset contains energy consumption data with the following columns:
 | `Global_intensity`      | Current intensity (A)                           |
 | `Sub_metering_1-3`      | Energy usage in different household areas       |
 
-🔗 **Dataset Source:** *(https://docs.google.com/spreadsheets/d/11PVkEU7rOGpnlyV9DngEX4gpEdVJ5wXG/edit?usp=sharing&ouid=104852732040818079484&rtpof=true&sd=true)*  
+🔗 **Dataset Source:** *(https://drive.google.com/file/d/15i7ykm1GwGkVI_7caZAZsiAKZVEDC5VF/view?usp=sharing)*  
 
 ---
 
