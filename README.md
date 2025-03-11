@@ -49,12 +49,27 @@ The dataset contains energy consumption data with the following columns:
 ---
 
 ## 📊 Key Visualizations  
-📌 **Energy Consumption Trends Over Time**  
-📌 **Daily, Weekly, and Hourly Usage Patterns**  
-📌 **Heatmaps Showing Feature Correlations**  
-📌 **Distribution of Energy Usage Across Household Areas**  
 
-🔗 *Check out the full visualizations in the Jupyter Notebook!*  
+### 📌 **Energy Consumption Trends Over Time**  
+![Energy Consumption Trends](https://drive.google.com/uc?export=view&id=12U2V_Sgaun1XkfkTfYjgjHFC_wfdjnCA)  
+
+ ### 📌 **Daily, Weekly, and Hourly Usage Patterns**  
+
+#### 📅 **Daily Usage Pattern**  
+![Daily Usage](https://drive.google.com/uc?export=view&id=1-xVgGbhIt_FPKYjuacJ0KvaV9_kFS2W0)  
+
+#### 📆 **Weekly Usage Pattern**  
+![Weekly Usage](https://drive.google.com/uc?export=view&id=1_Txk_MfNe2hEHNXhgMx_DeQ8bSKSrvk3)  
+
+#### ⏳ **Hourly Usage Pattern**  
+![Hourly Usage](https://drive.google.com/uc?export=view&id=1Ft_TIT3SF1vAzk8JT5kYVD_xEwdlxHXX)  
+
+### 📌 **Heatmaps Showing Feature Correlations**  
+![Feature Correlation Heatmap](https://drive.google.com/uc?export=view&id=1c01NIghe9m-uRNqTX8OGgL0BZKbR5IeO)  
+
+
+
+ 
 
 ---
 
